@@ -1,10 +1,14 @@
-## CSS ANIMATIONS - A Simple yet Beautiful way to make your websites look better
+# CSS ANIMATIONS - A Simple yet Interesting way to make your websites look better
 
-#What are CSS ANIMATIONS?
-CSS animations, its something that doesn’t come to mind first but is surely an underrated art that truly is beautiful and interesting. It basically means animating transitions from one CSS style configuration to another.
-Animations consist of two components, a style describing the CSS animation and a set of keyframes that indicate the start and end states of the animation's style, as well as possible intermediate waypoints. To style a CSS animation sequence, we use the animation property or its sub-properties. This lets you configure the timing, duration, and other details of how the animation sequence should progress. This does not configure the actual appearance of the animation, which is done using the @keyframes at-rule. In simple words; styling answers how and keyframes answer when. Keyframes use a <percentage> to indicate the time during the animation sequence at which they take place
+## What are CSS ANIMATIONS?
+CSS animations, its something that doesn’t come to mind first but is surely an underrated art that truly is beautiful. For understanding it basically means 
+>animating transitions from one CSS style configuration to another
+
+Animations consist of two components, a **style** describing the CSS animation and **a set of keyframes** that indicate the start and end states of the animation's style, as well as possible intermediate waypoints. To style a CSS animation sequence, we use the animation property or its sub-properties. This lets you configure the timing, duration, and other details of how the animation sequence should progress. This does not configure the actual appearance of the animation, which is done using the @keyframes at-rule. In simple words; styling answers how and keyframes answer when. Keyframes use a <percentage> to indicate the time during the animation sequence at which they take place
 So for example,
  
+![example 1]()
+![example 2]()
 
  
 Glimpse into the Common animation properties

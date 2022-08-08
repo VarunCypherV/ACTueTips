@@ -7,7 +7,7 @@ CSS animations, its something that doesn’t come to mind first but is surely an
 Animations consist of two components, a **style** describing the CSS animation and **a set of keyframes** that indicate the start and end states of the animation's style, as well as possible intermediate waypoints. To style a CSS animation sequence, we use the animation property or its sub-properties. This lets you configure the timing, duration, and other details of how the animation sequence should progress. This does not configure the actual appearance of the animation, which is done using the @keyframes at-rule. In simple words; styling answers how and keyframes answer when. Keyframes use a <percentage> to indicate the time during the animation sequence at which they take place
 So for example,
  
-![example 1]()
+![example 1](https://github.com/VarunCypherV/ACTueTips/blob/main/actuetipeg1.png)
 ![example 2]()
 
  

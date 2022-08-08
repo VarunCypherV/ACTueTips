@@ -8,7 +8,7 @@ Animations consist of two components, a **style** describing the CSS animation a
 So for example,
  
 ![example 1](https://github.com/VarunCypherV/ACTueTips/blob/main/actuetipeg1.png)
-![example 2]()
+![example 2](https://github.com/VarunCypherV/ACTueTips/blob/main/actuetipeg2.png)
 
  
 Glimpse into the Common animation properties
